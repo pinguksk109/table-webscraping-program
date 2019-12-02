@@ -1,11 +1,11 @@
-This program is a python program created when collecting paper data.
-Follow web scraping rules.
+This program is a python program created when collecting paper data.<br>
+Follow web scraping rules.<br>
 
-#requirements
-BeautifulSoup
-csv
-urlopen
+<h1>requirements<h1>
+BeautifulSoup<br>
+csv<br>
+urlopen<br>
 
-#jp
+<h3>日本語<h3>
 このプログラムは、論文のデータを集める際に、作ったpythonのプログラムです。
 webスクレイピングのルールを守りましょう。
